@@ -1,4 +1,4 @@
-## QUESTION 1
+
     require 'pry'
 pokemon = [
   {
