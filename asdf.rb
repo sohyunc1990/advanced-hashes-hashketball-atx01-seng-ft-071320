@@ -63,6 +63,7 @@ pokemon = [
 pokemon[0].each do |key|
   if "base_experience" != 40
     "base_experience = 40"
+  end
   binding.pry
 end
 
