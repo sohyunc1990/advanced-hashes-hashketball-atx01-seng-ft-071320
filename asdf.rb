@@ -1,5 +1,5 @@
 
-    require 'pry'
+ require 'pry'
 pokemon = [
   {
     "id": 1,
@@ -59,3 +59,10 @@ pokemon = [
   ]
 }
 ]
+
+pokemon.each do |attr|
+
+end
+
+
+binding.pry
