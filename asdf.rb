@@ -61,6 +61,7 @@ pokemon = [
 ]
 
 pokemon[0].each do |attr|
+  attr[:abilities]
   
 end
 
