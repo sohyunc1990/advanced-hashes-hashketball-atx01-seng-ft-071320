@@ -61,8 +61,7 @@ pokemon = [
 ]
 
 pokemon[0].each do |key|
-  key
+  keybinding.pry
 end
 
 
-binding.pry
