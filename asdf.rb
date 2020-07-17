@@ -61,7 +61,7 @@ pokemon = [
 ]
 
 pokemon[0].each do |key|
-  key[:base_experience]
+  key
   binding.pry
 end
 
