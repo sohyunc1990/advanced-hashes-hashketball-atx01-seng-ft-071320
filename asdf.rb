@@ -60,8 +60,8 @@ pokemon = [
 }
 ]
 
-pokemon[0].each do |attr|
-  attr[:abilities]
+pokemon[0].each do |key|
+  key[:abilities]
   
 end
 
