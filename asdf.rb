@@ -61,7 +61,7 @@ pokemon = [
 ]
 
 pokemon.each do |attr|
-
+  
 end
 
 
